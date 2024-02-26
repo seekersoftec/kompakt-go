@@ -23,3 +23,13 @@ Usage(Work flow):
 - The web app server downloads the file, compresses it and sends it to the web app's client (user's machine)
 - The client app loads the file from the server, decompresses it and save it to the user's machine 
 =================================
+
+**Questions:**
+
+- How to reverse a hash data to its original form?
+- Would the mixture of encoding algorithms such as Shannon, huffman, and Lempel-Ziv give a middle-out compression algorithm?
+
+**Compression size Goals:**
+- 100MB (~10% of 1GB)
+- 10MB (~1% of 1GB)
+- 1MB (~0.10% of 1GB)
