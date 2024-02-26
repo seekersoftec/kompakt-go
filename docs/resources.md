@@ -24,6 +24,18 @@
   
 - https://www.numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Encoders.pdf
 
+- https://bellard.org/ts_server/ts_zip.html
+
+- https://github.com/BlinkDL/RWKV-LM
+
+- https://github.com/byronknoll/lstm-compress/
+
+- https://github.com/amargaritov/starlit/
+
+- https://github.com/byronknoll/cmix
+
+- https://github.com/kaitz/fxcm
+
 ## Golang
 - https://www.oreilly.com/library/view/security-with-go/9781788627917/6ff99db5-bdda-431a-b5b4-938b9ab1e7a1.xhtml
 - https://github.com/flanglet/kanzi-go
