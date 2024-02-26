@@ -1,0 +1,9 @@
+.vscode/
+samples/
+.pytest_cache
+enwik9
+notebooks/*.bin
+notebooks/*.out
+notebooks/*.exe
+data/*.zip
+data/enwik9
