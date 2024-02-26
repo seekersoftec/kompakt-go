@@ -4,12 +4,7 @@ Kompakt is a data compression tool designed to squeeze the most compression out 
 
 Also intended to be the go version of [cmix](https://github.com/byronknoll/cmix) 
 
-## Compression size Goals
-- 100MB (~10% of 1GB)
-- 10MB (~1% of 1GB)
-- 1MB (~0.10% of 1GB)
-
-**Algorithms:**
+## Algorithms
 
 - Shannon
 - Huffman
