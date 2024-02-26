@@ -23,3 +23,9 @@
 - https://discourse.numenta.org/t/wondering-about-the-history-of-htm-and-sdr/8097
   
 - https://www.numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Encoders.pdf
+
+## Golang
+- https://www.oreilly.com/library/view/security-with-go/9781788627917/6ff99db5-bdda-431a-b5b4-938b9ab1e7a1.xhtml
+- https://github.com/flanglet/kanzi-go
+- https://github.com/klauspost/compress
+- https://pkg.go.dev/compress
