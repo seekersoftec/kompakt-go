@@ -1,4 +1,8 @@
-# Docs
+# Docs (nothing here for now just dumps)
+
+Kompakt is a general-purpose data compression library that aims to achieve a compression ratio of approximately 1024:1. The library uses multi-threaded PAQ-based lossless compression archivers to reduce data by approximately 80% - 100%.
+
+For a compression ratio of 1024:1, we have 1GB - 1MB. This means that the compressed data will be approximately 1/1024th of the original size. For example, if you have 1GB (1024 megabytes) of data, after compression with a compression ratio of 1024:1, the compressed data will be approximately 1MB.
 
 ## Some Ideas
 
@@ -19,3 +23,13 @@ Usage(Work flow):
 - The web app server downloads the file, compresses it and sends it to the web app's client (user's machine)
 - The client app loads the file from the server, decompresses it and save it to the user's machine 
 =================================
+
+**Questions:**
+
+- How to reverse a hash data to its original form?
+- Would the mixture of encoding algorithms such as Shannon, huffman, and Lempel-Ziv give a middle-out compression algorithm?
+
+**Compression size Goals:**
+- 100MB (~10% of 1GB)
+- 10MB (~1% of 1GB)
+- 1MB (~0.10% of 1GB)
