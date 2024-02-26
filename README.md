@@ -1,8 +1,8 @@
 # Kompakt
 
-Kompakt is a general-purpose data compression library that aims to achieve a compression ratio of approximately 1024:1. The library uses multi-threaded PAQ-based lossless compression archivers to reduce data by approximately 80% - 100%.
+Kompakt is a data compression tool designed to squeeze the most compression out of your files while minimizing the drain on your computer's resources. Unlike other programs that might sacrifice compression for speed or ease of use, Kompakt prioritizes maximizing the compression ratio while still being relatively efficient in terms of CPU and memory usage.
 
-For a compression ratio of 1024:1, we have 1GB - 1MB. This means that the compressed data will be approximately 1/1024th of the original size. For example, if you have 1GB (1024 megabytes) of data, after compression with a compression ratio of 1024:1, the compressed data will be approximately 1MB.
+Also intended to be the go version of [cmix](https://github.com/byronknoll/cmix) 
 
 ## Compression size Goals
 - 100MB (~10% of 1GB)
@@ -20,7 +20,6 @@ For a compression ratio of 1024:1, we have 1GB - 1MB. This means that the compre
 - Huffman
 - Lempel-Ziv
 - Prediction by Partial Matching (PPM)
-
 
 
 ## Basic Benchmark Goal
