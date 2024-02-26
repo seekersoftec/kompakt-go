@@ -17,7 +17,7 @@ For a compression ratio of 1024:1 we have 1GB - 1MB. This means that the compres
 - How to reverse a hash data to it's original form?
 - Would the mixture of encoding algorithms such as shannon, huffman, and lempel-ziv give a middle-out compression algorithm?
 
-**Encoding Algorithms:**
+**Algorithms:**
 
 - Shannon
 - Huffman
@@ -25,5 +25,6 @@ For a compression ratio of 1024:1 we have 1GB - 1MB. This means that the compres
 - Prediction by Partial Matching (PPM)
 
 
+
 ## Basic Benchmark Goal
- - [Hutter Prize](http://prize.hutter1.net/)
+ - Use the one from [Hutter Prize](http://prize.hutter1.net/) => might be too ambitious 
