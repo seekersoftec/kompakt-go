@@ -9,11 +9,6 @@ Also intended to be the go version of [cmix](https://github.com/byronknoll/cmix)
 - 10MB (~1% of 1GB)
 - 1MB (~0.10% of 1GB)
 
-**Questions:**
-
-- How to reverse a hash data to its original form?
-- Would the mixture of encoding algorithms such as Shannon, huffman, and Lempel-Ziv give a middle-out compression algorithm?
-
 **Algorithms:**
 
 - Shannon
