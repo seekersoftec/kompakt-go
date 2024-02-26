@@ -1,4 +1,14 @@
-# Kompakt web app
+# Docs
+
+## Some Ideas
+
+**Hash-based compression:** If a hash can be reversed, data can be compressed into the tiniest pieces, i.e., hashing data before compression can help reduce its size by a thousand-fold.
+
+**Neural Network-based compression:** Using Deep learning by harnessing Neural Network-based modeling combined with arithmetic coding; For this, the models are first trained, and the trained models shipped along with the compression/decompression program i.e each model has a unique number (hashed and encoded). That number is what identifies the model that was used to compress that data so that the data can be decompressed by the appropriate model(Referenced from DZip-torch).
+
+**Dictionary-based compression:** Group data into 4 hexadecimal forms, then generate a dictionary based on it. i.e 16 Permutation 4
+
+## Kompakt web app
 A General Data Compression library that compresses files to less than or equal to 50% of their original size[1024MB == 10.24MB]
 
 =================================
